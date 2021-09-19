@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Skills
+ 1.Coding 1a
+ 2.Music
+  
+3. Hobbies
